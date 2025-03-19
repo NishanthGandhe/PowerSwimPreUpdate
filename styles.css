@@ -33,8 +33,8 @@ header {
 }
 
 .logo {
-    width: 50px;
-    height: 50px;
+    width: 200px;
+    height: 200px;
     background-color: white;
     border-radius: 50%;
     display: flex;
@@ -55,7 +55,7 @@ img {
   }
 
 h1 {
-    font-size: 1.8rem;
+    font-size: 4rem;
     color: white;
 }
 
@@ -110,6 +110,7 @@ main {
     color: #1a4b8c;
     margin-bottom: 1rem;
     text-align: center;
+    font-size: 2rem;
 }
 
 .form-section p {
@@ -117,6 +118,7 @@ main {
     color: #555;
     text-align: center;
     max-width: 400px;
+    font-size: 30px;
 }
 
 .btn {
@@ -126,11 +128,12 @@ main {
     text-decoration: none;
     border: none;
     border-radius: 4px;
-    padding: 0.75rem 2rem;
+    padding: 1.5rem 4rem;
     font-size: 1rem;
     cursor: pointer;
     transition: all 0.3s ease;
     border: 2px solid #d4af37;
+    font-size: 30px;
 }
 
 .btn:hover {
