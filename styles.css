@@ -17,7 +17,7 @@ body {
 }
 
 /* Header */
-/* header {
+header {
     background-color: #1a4b8c;
     color: white;
     padding: 1rem 2rem;
@@ -57,7 +57,7 @@ img {
 h1 {
     font-size: 4rem;
     color: white;
-} */
+}
 
 /* Main content */
 main {
